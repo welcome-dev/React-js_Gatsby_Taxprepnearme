@@ -1,0 +1,254 @@
+{
+  "AL": [
+    "Birmingham",
+    "Huntsville"
+  ],
+  "AZ": [
+    "Chandler",
+    "Gilbert",
+    "Glendale",
+    "Mesa",
+    "Phoenix",
+    "Scottsdale",
+    "Tempe",
+    "Tucson"
+  ],
+  "CA": [
+    "Anaheim",
+    "Bakersfield",
+    "Berkeley",
+    "Chula Vista",
+    "Concord",
+    "Davis",
+    "Elk Grove",
+    "Escondido",
+    "Fairfield",
+    "Fullerton",
+    "Hollywood",
+    "Lancaster",
+    "Los Angeles",
+    "Modesto",
+    "Moreno Valley",
+    "Oakland",
+    "Oceanside",
+    "Pasadena",
+    "Rancho Cucamonga",
+    "Richmond",
+    "Riverside",
+    "Roseville",
+    "Sacramento",
+    "San Bernardino",
+    "San Diego",
+    "San Francisco",
+    "San Jose",
+    "Santa Ana",
+    "Santa Clara",
+    "Simi Valley",
+    "Sunnyvale",
+    "Torrance",
+    "West Covina"
+  ],
+  "CO": [
+    "Arvada",
+    "Aurora",
+    "Boulder",
+    "Colorado Springs",
+    "Denver",
+    "Fort Collins",
+    "Westminster"
+  ],
+  "CT": [
+    "Hartford",
+    "Stamford"
+  ],
+  "DC": [
+    "Washington"
+  ],
+  "FL": [
+    "Cape Coral",
+    "Clearwater",
+    "Coral Springs",
+    "Fort Lauderdale",
+    "Jacksonville",
+    "Lakeland",
+    "Miami",
+    "Orlando",
+    "Pembroke Pines",
+    "Pompano Beach",
+    "Saint Petersburg",
+    "Tallahassee",
+    "Tampa",
+    "West Palm Beach"
+  ],
+  "GA": [
+    "Atlanta",
+    "Columbus",
+    "Sandy Springs",
+    "Savannah"
+  ],
+  "HI": [
+    "Honolulu"
+  ],
+  "IA": [
+    "Cedar Rapids",
+    "Des Moines",
+    "Iowa City"
+  ],
+  "ID": [
+    "Boise"
+  ],
+  "IL": [
+    "Aurora",
+    "Chicago",
+    "Springfield"
+  ],
+  "IN": [
+    "Fort Wayne",
+    "Indianapolis",
+    "South Bend"
+  ],
+  "KS": [
+    "Wichita"
+  ],
+  "KY": [
+    "Lexington",
+    "Louisville"
+  ],
+  "LA": [
+    "Baton Rouge",
+    "Lafayette",
+    "New Orleans",
+    "Shreveport"
+  ],
+  "MA": [
+    "Boston",
+    "Cambridge",
+    "Worcester"
+  ],
+  "MD": [
+    "Baltimore"
+  ],
+  "MI": [
+    "Ann Arbor",
+    "Detroit",
+    "Lansing"
+  ],
+  "MN": [
+    "Minneapolis",
+    "Rochester",
+    "Saint Paul"
+  ],
+  "MO": [
+    "Kansas City",
+    "Saint Louis"
+  ],
+  "MT": [
+    "Billings"
+  ],
+  "NC": [
+    "Charlotte",
+    "Greensboro",
+    "Winston-Salem"
+  ],
+  "ND": [
+    "Fargo"
+  ],
+  "NE": [
+    "Omaha"
+  ],
+  "NJ": [
+    "Atlantic City",
+    "Jersey City",
+    "Newark"
+  ],
+  "NM": [
+    "Albuquerque",
+    "Las Cruces",
+    "Santa Fe"
+  ],
+  "NV": [
+    "Las Vegas",
+    "Reno"
+  ],
+  "NY": [
+    "Albany",
+    "Brooklyn",
+    "Buffalo",
+    "Long Island",
+    "New York",
+    "Queens",
+    "Rochester",
+    "Syracuse"
+  ],
+  "OH": [
+    "Cincinnati",
+    "Cleveland",
+    "Columbus",
+    "Toledo"
+  ],
+  "OK": [
+    "Broken Arrow",
+    "Norman",
+    "Oklahoma City",
+    "Tulsa"
+  ],
+  "OR": [
+    "Bend",
+    "Eugene",
+    "Portland",
+    "Salem"
+  ],
+  "PA": [
+    "Philadelphia",
+    "Pittsburgh"
+  ],
+  "RI": [
+    "Providence"
+  ],
+  "SC": [
+    "Charleston",
+    "Columbia"
+  ],
+  "TN": [
+    "Chattanooga",
+    "Knoxville",
+    "Memphis",
+    "Nashville"
+  ],
+  "TX": [
+    "Arlington",
+    "Austin",
+    "Corpus Christi",
+    "Dallas",
+    "El Paso",
+    "Fort Worth",
+    "Houston",
+    "Laredo",
+    "Lubbock",
+    "Plano",
+    "San Antonio"
+  ],
+  "UT": [
+    "Provo",
+    "Salt Lake City"
+  ],
+  "VA": [
+    "Alexandria",
+    "Newport News",
+    "Norfolk",
+    "Virginia Beach"
+  ],
+  "WA": [
+    "Bellevue",
+    "Bellingham",
+    "Seattle",
+    "Spokane",
+    "Tacoma",
+    "Vancouver"
+  ],
+  "WI": [
+    "Green Bay",
+    "Madison",
+    "Milwaukee"
+  ]
+}
